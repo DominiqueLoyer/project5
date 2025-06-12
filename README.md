@@ -15,5 +15,5 @@ I will put the code of the lemmer eventually.
 
 Dominique S. Loyer
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![MAP and P@10]([http://url/to/img.png](https://github.com/DominiqueLoyer/project5/blob/master/12.png))
+![config]([http://url/to/img.png](https://github.com/DominiqueLoyer/project5/blob/master/13.png))
