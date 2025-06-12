@@ -14,3 +14,6 @@ THE FILE TREC_AP88-90_5juin2025.py experiment Porter Stemming and RM3. I tried w
 I will put the code of the lemmer eventually.
 
 Dominique S. Loyer
+
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
