@@ -1,5 +1,5 @@
 # TREC ASSOCIATION PRESS COMPETITION 88-90
-
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dominiqueloyer)
 
 ## PLEASE USE THIS CITE KEY IF YOU USE THE CODE OR PART OF THE REPORT/BEAMER
 **Citation Key: loyerEvaluationModelesRecherche2025**
